@@ -1,0 +1,10 @@
+{
+  "ZoneStates": [
+    {
+      "stateName": "Guest Room Downstairs.Guest 1st FL Bathroom LightsLoadLevel",
+      "stateType": "int"
+    }
+  ],
+  "GlobalStates": [],
+  "ServiceStates": []
+}

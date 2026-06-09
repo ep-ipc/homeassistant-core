@@ -1,0 +1,18 @@
+[
+  {
+    "loadID": "d79e5812-ce90-421f-a4c0-fa21a4b9f70c",
+    "deviceID": "E68A3E07-A1B8-4BAD-9D38-D683DDDE254D",
+    "roomID": "57C2BB79-8CF7-41D9-B5E0-036E82ADEDC8",
+    "name": "Guest 1st FL Bathroom Lights",
+    "max": 100,
+    "min": 0
+  },
+  {
+    "loadID": "ab60027d-c2c4-4d05-bd0e-12643bd136da",
+    "deviceID": "AB60027D-C2C4-4D05-BD0E-12643BD136DA",
+    "roomID": "57C2BB79-8CF7-41D9-B5E0-036E82ADEDC8",
+    "name": "Switch Load",
+    "max": 100,
+    "min": 0
+  }
+]

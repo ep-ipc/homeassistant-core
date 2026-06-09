@@ -1,0 +1,11 @@
+{
+  "configurationID": "01C969E8-DE52-49D9-A63B-553B8A19503B",
+  "name": "Lloyds Prototype",
+  "rooms": [
+    {
+      "roomID": "57C2BB79-8CF7-41D9-B5E0-036E82ADEDC8",
+      "name": "Guest Room Downstairs",
+      "type": "user"
+    }
+  ]
+}
